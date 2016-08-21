@@ -1,3 +1,5 @@
+**[not ready]**
+
 # EWRC
 
 Easy Web Rest Client
