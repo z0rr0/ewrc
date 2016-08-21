@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# custome settings
+.idea/
+coverage.out
+trace.out
+Godeps/_workspace/
+vendor/
